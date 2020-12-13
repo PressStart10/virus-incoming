@@ -1,0 +1,3 @@
+$("#g").click(function(){
+  
+});
